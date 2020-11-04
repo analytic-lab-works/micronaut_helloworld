@@ -1,0 +1,6 @@
+hello_world/Application.class
+hello_world/controllers/HelloController.class
+hello_world/controllers/$HelloControllerDefinitionClass.class
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+hello_world/controllers/$HelloControllerDefinition.class
+hello_world/controllers/$HelloControllerDefinition$$exec1.class

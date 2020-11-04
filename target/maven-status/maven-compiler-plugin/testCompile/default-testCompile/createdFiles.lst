@@ -1,0 +1,4 @@
+hello_world/Hello_worldTest.class
+hello_world/$Hello_worldTestDefinition.class
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+hello_world/$Hello_worldTestDefinitionClass.class
